@@ -1,5 +1,7 @@
-# Country_stats
-The dataset provides information about various countries across different features, encompassing demographics, economy, health, education, and environmental aspects. The goal is to perform clustering on the dataset, grouping countries with similar characteristics together.
+# Stock
+CLUSTERING
+
+Given a dataset containing financial information for various stocks, the objective is to explore and identify inherent patterns or groupings among the stocks using unsupervised clustering techniques. The dataset includes information such as stock prices, financial ratios, and performance metrics. The goal is to apply clustering algorithms to segment stocks based on their financial characteristics, providing insights into potential similarities or differences among companies within the dataset.
 
 Expected Outcomes:
 A set of clusters representing groups of countries with similar characteristics.
